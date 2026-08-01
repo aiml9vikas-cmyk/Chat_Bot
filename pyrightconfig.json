@@ -1,0 +1,11 @@
+{
+    "include": [
+        "src",
+        "main.py"
+    ],
+    "extraPaths": [
+        "src"
+    ],
+    "reportMissingImports": true,
+    "reportMissingModuleSource": true
+}
